@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gh0stprince or Melora. I'm primarily a visual artist, though I have a thing for webdev and Python.
+- 👋 Hi, I’m @gh0stprince or M. I'm primarily a visual artist, though I have a thing for webdev and Python.
 - I'm currently going to school for computer science (technical support focus)
 
 <center><img src="https://raw.githubusercontent.com/gh0stprince/gh0stprince/62e2db6c342f737e2a72fa597fc8e34b1bbc75ab/github-metrics.svg"></center>
